@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eevuquaeg.switernal.cn/sitemap.xml
